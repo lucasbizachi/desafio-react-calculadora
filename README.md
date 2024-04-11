@@ -1,6 +1,6 @@
 # Desafio React Calculadora
 
-Este é um projeto de uma calculadora desenvolvida em React como parte de um desafio.
+Este é um projeto de uma calculadora desenvolvida em React como parte de um desafioda plataforma DIO.
 
 ## Funcionalidades
 
